@@ -2,7 +2,7 @@
 UE4의 HUD 웹브라우저 위젯을 이용한 Doom 돌리기 프로젝트입니다.
 
 ## How to
-웹 브라우저 위젯은 게임화면 위의 인터페이스에 웹 페이지를 띄우는 역할을 수행합니다.  
+[웹 브라우저 위젯](https://docs.unrealengine.com/ko/Engine/UMG/UserGuide/WidgetTypeReference/WebBrowser/index.html)은 게임화면 위의 인터페이스에 웹 페이지를 띄우는 역할을 수행합니다.  
 이를 이용해서 웹 브라우저 위에 돌아가는 Doom을 연결하는 방법을 통해 구현했습니다.
 
 ## Screenshot
